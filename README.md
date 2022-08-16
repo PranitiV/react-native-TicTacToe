@@ -26,4 +26,16 @@ An alert notifies the user of the outcome of the game and provides the option to
 
 This keeps track of whose turn it is next and informs the user of the same. 
 
-## DEMO
+## Demo 
+
+### 2-Player:
+
+https://user-images.githubusercontent.com/63542508/184883150-b6020a1d-3e0d-40af-8512-37a46f9f0f91.mp4
+
+### Easy Bot: 
+
+https://user-images.githubusercontent.com/63542508/184885634-0bda912f-bf17-40a1-a880-ff8ca0c0dd9c.mp4
+
+
+
+
