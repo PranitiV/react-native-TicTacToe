@@ -14,5 +14,4 @@ The bot is the computer playing as the second player:
 
 ### Winning State and Tie State 
 
-<img width="278" alt="Screenshot 2022-08-16 at 5 03 24 PM" src="https://user-images.githubusercontent.com/63542508/184869721-b5278abc-55f4-4747-891e-bf65e1471521.png">
-<img width="265" alt="Screenshot 2022-08-16 at 5 04 10 PM" src="https://user-images.githubusercontent.com/63542508/184869863-99cf3df6-e0ae-448d-aeed-9d027bab444e.png">
+<img width="265" alt="Screenshot 2022-08-16 at 5 03 24 PM" src="https://user-images.githubusercontent.com/63542508/184869721-b5278abc-55f4-4747-891e-bf65e1471521.png"> <img width="265" alt="Screenshot 2022-08-16 at 5 04 10 PM" src="https://user-images.githubusercontent.com/63542508/184869863-99cf3df6-e0ae-448d-aeed-9d027bab444e.png">
