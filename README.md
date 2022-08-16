@@ -34,7 +34,17 @@ https://user-images.githubusercontent.com/63542508/184883150-b6020a1d-3e0d-40af-
 
 ### Easy Bot: 
 
+Context: The user is player 'X' and the bot is player 'O'.  
+
 https://user-images.githubusercontent.com/63542508/184885634-0bda912f-bf17-40a1-a880-ff8ca0c0dd9c.mp4
+
+### Defending Bot:
+
+Context: The user is player 'X' and the bot is player 'O'.  
+
+https://user-images.githubusercontent.com/63542508/184886848-c9535dc8-e9b1-4936-a7f8-cf18cbd251ae.mp4
+
+
 
 
 
