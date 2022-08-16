@@ -5,9 +5,7 @@ A React Native implementation of the TicTacToe game.
 
 ### Multiplayer and Levels
 
-<img width="304" alt="Screenshot 2022-08-16 at 4 42 16 PM" src="https://user-images.githubusercontent.com/63542508/184866108-fd07555d-00f0-4af9-8149- c177eaebbf0d.png" align = "center">
-
-
+<img align="center" width="304" alt="Screenshot 2022-08-16 at 4 42 16 PM" src="https://user-images.githubusercontent.com/63542508/184866108-fd07555d-00f0-4af9-8149- c177eaebbf0d.png">
 
 -The "2-Player" option allows 2 players to play on the same device.  
 The bot is the computer playing as the second player:  
